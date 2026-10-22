@@ -1,7 +1,8 @@
 # Çizgi Rent A Car - Mobile App Showcase 
 
-[![App Store](https://apps.apple.com/tr/app/cizgi-rent-a-car/id1190583295?l=tr)
-[![Google Play](https://play.google.com/store/apps/details?id=com.cizgirentacar.app&hl=tr)
+[![App Store](https://upload.wikimedia.org/wikipedia/commons/3/3c/Download_on_the_App_Store_Badge.svg)](https://apps.apple.com/tr/app/cizgi-rent-a-car/id1190583295?l=tr)
+[![Google Play](https://upload.wikimedia.org/wikipedia/commons/7/78/Google_Play_Store_badge_EN.svg)](https://play.google.com/store/apps/details?id=com.cizgirentacar.app&hl=tr)
+
 
 *Note: Due to non-disclosure agreements (NDA) and commercial copyrights, the source code of this project is kept private. This repository serves as a professional showcase of my contributions to the application.*
 
